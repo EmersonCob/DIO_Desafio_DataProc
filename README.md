@@ -5,4 +5,4 @@ Desafio DIO DataProc
 
 ## Demonstration
 
-<img src="./img/result.png" alt="Exemplo">
+<img src="./img/tela.png" alt="Exemplo">
